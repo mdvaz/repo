@@ -1,0 +1,1 @@
+npm create vite@latest mi-juego-atributos -- --template react-ts

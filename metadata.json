@@ -1,0 +1,5 @@
+{
+  "name": "Atributos al Límite - React Edition",
+  "description": "Un emocionante juego de cartas de atributos donde compites contra la IA. Elige tu mazo, selecciona el mejor atributo de tu carta y trata de ganar todas las cartas de tu oponente o tener más cartas después de 10 rondas. Esta versión está construida con React y Tailwind CSS.",
+  "requestFramePermissions": []
+}

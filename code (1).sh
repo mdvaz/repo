@@ -1,0 +1,1 @@
+cd mi-juego-atributos
